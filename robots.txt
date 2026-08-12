@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-pz4kg4.nuansa138.xyz/sitemap.xml
